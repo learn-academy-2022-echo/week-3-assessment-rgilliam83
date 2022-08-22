@@ -10,7 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Your answer:
 
-Researched answer:
+Researched answer: JSX stands for JavaScript syntax extension.   It is a JavaScript extension that allows us to describe React's object tree using a syntax that resembles that of an HTML template.   It is just an XML-like extension that allows us to write JavaScript that looks like markup and have it returned from a component.
 
 2. What is yarn? What file(s) are modified in a React application when you run yarn?
 

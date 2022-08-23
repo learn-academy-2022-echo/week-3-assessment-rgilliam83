@@ -41,18 +41,18 @@ Researched answer: Props are a JavaScript object that React components receive a
 
 6. STRETCH: Which is the difference between a div and a span?
 
-Your answer:
+Your answer: <div> and <span> are used to represent the part of the webpage. <div> tag is used a as block part of the webpage and <span> tag is used as a inline part of the webpage.  
 
-Researched answer:
+Researched answer: Span and div are HTML elements that group together related parts of a web page. A div element is used for block-level organizing and styling of page elements, and a span element is used for inline organization and styling
 
 ## Looking Ahead: Terms for Next Week
 
-1. Object-oriented programming:
+1. Object-oriented programming: Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects
 
-2. Ruby:
+2. Ruby: Ruby is an object-oriented programming language (OOP) that uses classes as blueprints for objects . Objects are the basic building-blocks of Ruby code (everything in Ruby is an object), and have two main properties: states and behaviours
 
-3. Implicit return:
+3. Implicit return: Ruby has implicit returns. This means that if a return is the last expression in a path of execution, there's no need for the return keyword. Worth noting is that return 's default argument is nil , which is a falsey value.
 
-4. Ruby blocks:
+4. Ruby blocks: Ruby blocks are anonymous functions that can be passed into methods. Blocks are enclosed in a do-end statement or curly braces {}. do-end is usually used for blocks that span through multiple lines while {} is used for single line blocks. Blocks can have arguments which should be defined between two pipe | characters.
 
-5. Ruby hashes:
+5. Ruby hashes: A Ruby hash is a collection of unique keys and their values. They are similar to arrays but array use integer as an index and hash use any object type. They are also called associative arrays, dictionaries or maps. If a hash is accessed with a key that does not exist, the method will return nil

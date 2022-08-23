@@ -1,3 +1,5 @@
+//________I am having a extremelly hard time getting my test to pass. Please advise________
+
 // // ASSESSMENT 3: Coding Practical Questions with Jest
 
 // // Please read all questions thoroughly
@@ -98,6 +100,8 @@ const onlyOdd = () => {
     return fullArr1.filter(n => n%2)
 }
 // b) Create the function that makes the test pass.
+
+
 
 
 // --------------------3) Create a function that takes in an array and returns an array of the accumulating sum. An empty array should return an empty array.

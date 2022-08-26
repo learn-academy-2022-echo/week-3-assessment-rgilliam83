@@ -29,7 +29,7 @@ Researched answer: Anonymous Function is a function that does not have any name 
 
 4. What is the difference between a class and an object?
 
-Your answer: Class is the definition what an object is expected to be. A class is the building block that leads to Object-Oriented Programming. It is the blueprint of any object.
+Your answer: Class is the definition what an object is expected to be. A class is the building block that leads to Object-Oriented Programming. It is the blueprint of any object;
 
 Researched answer: A class is a template for objects. A class defines object properties including a valid range of values, and a default value. A class also describes object behavior. An object is a member or an "instance" of a class. An object has a state in which all of its properties have values that you either explicitly define or that are defined by default settings.
 
